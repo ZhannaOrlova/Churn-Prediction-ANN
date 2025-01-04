@@ -1,0 +1,97 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS specific files
+.DS_Store
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+coverage.xml
+*.py,cover
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Static file cache
+staticfiles/
+
+# Editor-specific files
+.vscode/
+*.swp
+*.swo
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# Compiled C extensions
+*.so
+
+# Backup files
+*.bak
+*.tmp
+
+# Ignored files for JetBrains IDEs
+*.iml
+*.iws
+.idea/
+out/
+
+# Ignored by Visual Studio Code
+.vscode/
+
+# Specific IDE-generated files
+*.code-workspace
+.history/
+
+# Ignoring pytest cache
+.pytest_cache/
+
+# Ignoring yarn and npm files
+node_modules/
+package-lock.json
+yarn.lock
+
+# Anaconda
+*.conda
+*.ipynb
+
+# Custom ignores (add your specific needs here)
+custom_ignored_file_or_directory/
